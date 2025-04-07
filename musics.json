@@ -1,38 +1,70 @@
 [
   {
     "rang_du_top":1,
-    "titre":"Ordinary",
-    "artiste":"Alex Warren",
-    "ambiance":"Musique à tendance ouverte",
+    "titre":"NINAO",
+    "artiste":"GIMS",
+    "ambiance":"Musique Joyeuse",
     "energie":"Energétique",
     "contenu_explicite":"Non"
   },
   {
     "rang_du_top":2,
-    "titre":"That’s So True",
-    "artiste":"Gracie Abrams",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Calme",
+    "titre":"Mood",
+    "artiste":"KeBlack",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Energétique",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":3,
-    "titre":"Pink Pony Club",
-    "artiste":"Chappell Roan",
+    "titre":"CIEL",
+    "artiste":"GIMS",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Energétique",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":4,
+    "titre":"Chambre 04",
+    "artiste":"DJ Kawest, Attachingboy",
     "ambiance":"Musique à tendance ouverte",
     "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
-    "rang_du_top":4,
-    "titre":"Messy",
-    "artiste":"Lola Young",
-    "ambiance":"Musique à tendance ouverte",
+    "rang_du_top":5,
+    "titre":"Pélican",
+    "artiste":"L2B",
+    "ambiance":"Musique Joyeuse",
     "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
-    "rang_du_top":5,
+    "rang_du_top":6,
+    "titre":"Run",
+    "artiste":"Rim'K, SDM",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Energétique",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":7,
+    "titre":"Feel Good",
+    "artiste":"Charlotte Cardin",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Calme",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":8,
+    "titre":"CARTIER SANTOS",
+    "artiste":"SDM",
+    "ambiance":"Musique triste",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":9,
     "titre":"Anxiety",
     "artiste":"Doechii",
     "ambiance":"Musique Joyeuse",
@@ -40,15 +72,87 @@
     "contenu_explicite":"Oui"
   },
   {
-    "rang_du_top":6,
-    "titre":"twilight zone",
-    "artiste":"Ariana Grande",
-    "ambiance":"Musique triste",
+    "rang_du_top":10,
+    "titre":"SPIDER",
+    "artiste":"GIMS, DYSTINCT",
+    "ambiance":"Musique Joyeuse",
     "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
-    "rang_du_top":7,
+    "rang_du_top":11,
+    "titre":"Sexy Woman",
+    "artiste":"La Mano 1.9",
+    "ambiance":"Musique à tendance ouverte",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":12,
+    "titre":"4 Kampé",
+    "artiste":"Joé Dwèt Filé",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Energétique",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":13,
+    "titre":"Messy",
+    "artiste":"Lola Young",
+    "ambiance":"Musique à tendance ouverte",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":14,
+    "titre":"Pétunias",
+    "artiste":"Werenoi",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Energétique",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":15,
+    "titre":"Shamballa",
+    "artiste":"Anyme023, Shaydee's",
+    "ambiance":"Musique à tendance ouverte",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":16,
+    "titre":"SOIS PAS TIMIDE",
+    "artiste":"GIMS",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Energétique",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":17,
+    "titre":"NANANI NANANA",
+    "artiste":"Gazo",
+    "ambiance":"Musique triste",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":18,
+    "titre":"Alpha",
+    "artiste":"Damso, Kalash",
+    "ambiance":"Musique à tendance ouverte",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
+    "rang_du_top":19,
+    "titre":"Minimum ça",
+    "artiste":"Dr. Yaro",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Calme",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":20,
     "titre":"APT.",
     "artiste":"ROSÉ, Bruno Mars",
     "ambiance":"Musique Joyeuse",
@@ -56,39 +160,7 @@
     "contenu_explicite":"Non"
   },
   {
-    "rang_du_top":8,
-    "titre":"BIRDS OF A FEATHER",
-    "artiste":"Billie Eilish",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":9,
-    "titre":"Sports car",
-    "artiste":"Tate McRae",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":10,
-    "titre":"Good Luck, Babe!",
-    "artiste":"Chappell Roan",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":11,
-    "titre":"Sailor Song",
-    "artiste":"Gigi Perez",
-    "ambiance":"Musique triste",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":12,
+    "rang_du_top":21,
     "titre":"Die With A Smile",
     "artiste":"Lady Gaga, Bruno Mars",
     "ambiance":"Musique à tendance profonde",
@@ -96,183 +168,127 @@
     "contenu_explicite":"Non"
   },
   {
-    "rang_du_top":13,
-    "titre":"Busy Woman",
-    "artiste":"Sabrina Carpenter",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
-    "contenu_explicite":"Oui"
-  },
-  {
-    "rang_du_top":14,
-    "titre":"Espresso",
-    "artiste":"Sabrina Carpenter",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
-    "contenu_explicite":"Oui"
-  },
-  {
-    "rang_du_top":15,
-    "titre":"The Giver",
-    "artiste":"Chappell Roan",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":16,
-    "titre":"Taste",
-    "artiste":"Sabrina Carpenter",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":17,
-    "titre":"Beautiful Things",
-    "artiste":"Benson Boone",
-    "ambiance":"Musique triste",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":18,
-    "titre":"dandelion",
-    "artiste":"Ariana Grande",
-    "ambiance":"Musique à tendance profonde",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":19,
-    "titre":"NOKIA",
-    "artiste":"Drake",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Calme",
-    "contenu_explicite":"Oui"
-  },
-  {
-    "rang_du_top":20,
-    "titre":"Show Me Love",
-    "artiste":"WizTheMc, bees & honey",
-    "ambiance":"Musique triste",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":21,
-    "titre":"warm",
-    "artiste":"Ariana Grande",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Energétique",
-    "contenu_explicite":"Non"
-  },
-  {
     "rang_du_top":22,
-    "titre":"The Days - NOTION Remix",
-    "artiste":"Chrystal, NOTION",
-    "ambiance":"Musique triste",
-    "energie":"Energétique",
-    "contenu_explicite":"Non"
+    "titre":"Sous la lune",
+    "artiste":"Jul",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":23,
-    "titre":"Not Like Us",
-    "artiste":"Kendrick Lamar",
-    "ambiance":"Musique triste",
-    "energie":"Calme",
+    "titre":"Celibataire Polygame",
+    "artiste":"TKS 2G",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Energétique",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":24,
-    "titre":"Carry You Home",
-    "artiste":"Alex Warren",
+    "titre":"MANON B",
+    "artiste":"Tiakola, Ryflo, Oskoow",
     "ambiance":"Musique à tendance ouverte",
     "energie":"Energétique",
-    "contenu_explicite":"Non"
+    "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":25,
-    "titre":"Dark Thoughts",
-    "artiste":"Lil Tecca",
-    "ambiance":"Musique Joyeuse",
+    "titre":"Vrais",
+    "artiste":"Ninho",
+    "ambiance":"Musique à tendance profonde",
     "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":26,
-    "titre":"All The Stars (with SZA)",
-    "artiste":"Kendrick Lamar, SZA",
-    "ambiance":"Musique à tendance ouverte",
+    "titre":"Dolce Camara",
+    "artiste":"Booba, SDM",
+    "ambiance":"Musique à tendance profonde",
     "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":27,
-    "titre":"Hampstead",
-    "artiste":"Ariana Grande",
+    "titre":"Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+    "artiste":"Arcane, Stromae, Pomme",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Calme",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":28,
+    "titre":"DtMF",
+    "artiste":"Bad Bunny",
     "ambiance":"Musique triste",
     "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
-    "rang_du_top":28,
-    "titre":"Lose Control",
-    "artiste":"Teddy Swims",
-    "ambiance":"Musique triste",
-    "energie":"Energétique",
-    "contenu_explicite":"Non"
-  },
-  {
     "rang_du_top":29,
-    "titre":"Too Sweet",
-    "artiste":"Hozier",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
+    "titre":"C'EST RELOU",
+    "artiste":"R2",
+    "ambiance":"Musique à tendance ouverte",
+    "energie":"Energétique",
+    "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":30,
-    "titre":"past life",
-    "artiste":"Ariana Grande",
+    "titre":"POUR ELLE",
+    "artiste":"SDM",
     "ambiance":"Musique à tendance profonde",
-    "energie":"Energétique",
+    "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":31,
-    "titre":"Love Me Not",
-    "artiste":"Ravyn Lenae",
-    "ambiance":"Musique Joyeuse",
+    "titre":"Mauvais Garçon",
+    "artiste":"Helena",
+    "ambiance":"Musique à tendance profonde",
     "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
     "rang_du_top":32,
-    "titre":"Abracadabra",
-    "artiste":"Lady Gaga",
+    "titre":"CARRÉ OK",
+    "artiste":"Soolking, GIMS",
     "ambiance":"Musique à tendance profonde",
-    "energie":"Energétique",
+    "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
     "rang_du_top":33,
-    "titre":"Revolving door",
-    "artiste":"Tate McRae",
-    "ambiance":"Musique triste",
-    "energie":"Energétique",
-    "contenu_explicite":"Oui"
-  },
-  {
-    "rang_du_top":34,
-    "titre":"luther (with sza)",
-    "artiste":"Kendrick Lamar, SZA",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Energétique",
+    "titre":"Pichichi",
+    "artiste":"Josas",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
+    "rang_du_top":34,
+    "titre":"Ça parle mal",
+    "artiste":"Bouss",
+    "ambiance":"Musique triste",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
     "rang_du_top":35,
+    "titre":"BIRDS OF A FEATHER",
+    "artiste":"Billie Eilish",
+    "ambiance":"Musique à tendance ouverte",
+    "energie":"Calme",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":36,
+    "titre":"La Pluie",
+    "artiste":"Franglish, Dinos",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Calme",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":37,
     "titre":"Bad Dreams",
     "artiste":"Teddy Swims",
     "ambiance":"Musique à tendance ouverte",
@@ -280,122 +296,106 @@
     "contenu_explicite":"Non"
   },
   {
-    "rang_du_top":36,
-    "titre":"Mr. Brightside",
-    "artiste":"The Killers",
-    "ambiance":"Musique triste",
-    "energie":"Energétique",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":37,
-    "titre":"Unwritten",
-    "artiste":"Natasha Bedingfield",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Calme",
-    "contenu_explicite":"Non"
-  },
-  {
     "rang_du_top":38,
-    "titre":"intro (end of the world) - extended",
-    "artiste":"Ariana Grande",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Calme",
+    "titre":"Jerrican (feat. La Mano 1.9)",
+    "artiste":"Guy2Bezbar, La Mano 1.9",
+    "ambiance":"Musique Joyeuse",
+    "energie":"Energétique",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":39,
-    "titre":"DILEMMA (feat. Central Cee)",
-    "artiste":"Nemzzz, Central Cee",
-    "ambiance":"Musique à tendance ouverte",
-    "energie":"Energétique",
-    "contenu_explicite":"Oui"
-  },
-  {
-    "rang_du_top":40,
-    "titre":"Bed Chem",
-    "artiste":"Sabrina Carpenter",
-    "ambiance":"Musique à tendance profonde",
+    "titre":"Show Me Love",
+    "artiste":"WizTheMc, bees & honey",
+    "ambiance":"Musique triste",
     "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
-    "rang_du_top":41,
-    "titre":"Austin (Boots Stop Workin')",
-    "artiste":"Dasha",
-    "ambiance":"Musique Joyeuse",
-    "energie":"Calme",
+    "rang_du_top":40,
+    "titre":"Hakayet",
+    "artiste":"VEN1",
+    "ambiance":"Musique à tendance profonde",
+    "energie":"Energétique",
     "contenu_explicite":"Oui"
   },
   {
-    "rang_du_top":42,
-    "titre":"Stick Season",
-    "artiste":"Noah Kahan",
+    "rang_du_top":41,
+    "titre":"Si Antes Te Hubiera Conocido",
+    "artiste":"KAROL G",
     "ambiance":"Musique Joyeuse",
+    "energie":"Energétique",
+    "contenu_explicite":"Non"
+  },
+  {
+    "rang_du_top":42,
+    "titre":"Beautiful Things",
+    "artiste":"Benson Boone",
+    "ambiance":"Musique triste",
     "energie":"Calme",
     "contenu_explicite":"Non"
   },
   {
     "rang_du_top":43,
-    "titre":"Iris",
-    "artiste":"The Goo Goo Dolls",
-    "ambiance":"Musique à tendance profonde",
+    "titre":"Born With a Broken Heart",
+    "artiste":"Damiano David",
+    "ambiance":"Musique à tendance ouverte",
     "energie":"Energétique",
     "contenu_explicite":"Non"
   },
   {
     "rang_du_top":44,
-    "titre":"Stargazing",
-    "artiste":"Myles Smith",
-    "ambiance":"Musique à tendance profonde",
-    "energie":"Energétique",
-    "contenu_explicite":"Non"
-  },
-  {
-    "rang_du_top":45,
-    "titre":"Please Please Please",
-    "artiste":"Sabrina Carpenter",
+    "titre":"EL GEMANO",
+    "artiste":"Genezio, La Mano 1.9",
     "ambiance":"Musique à tendance ouverte",
     "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
+    "rang_du_top":45,
+    "titre":"Mi Amor",
+    "artiste":"Hamza",
+    "ambiance":"Musique triste",
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
+  },
+  {
     "rang_du_top":46,
-    "titre":"A Bar Song (Tipsy)",
-    "artiste":"Shaboozey",
+    "titre":"That’s So True",
+    "artiste":"Gracie Abrams",
     "ambiance":"Musique à tendance ouverte",
     "energie":"Calme",
     "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":47,
-    "titre":"The Door",
-    "artiste":"Teddy Swims",
-    "ambiance":"Musique Joyeuse",
+    "titre":"Un jour, je l'aurai",
+    "artiste":"Jul",
+    "ambiance":"Musique à tendance profonde",
     "energie":"Energétique",
-    "contenu_explicite":"Non"
+    "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":48,
-    "titre":"Viva La Vida",
-    "artiste":"Coldplay",
+    "titre":"Abracadabra",
+    "artiste":"Lady Gaga",
     "ambiance":"Musique à tendance profonde",
     "energie":"Energétique",
     "contenu_explicite":"Non"
   },
   {
     "rang_du_top":49,
-    "titre":"Somedays",
-    "artiste":"Sonny Fodera, Jazzy, D.O.D",
+    "titre":"Aucune attache",
+    "artiste":"KeBlack",
     "ambiance":"Musique à tendance profonde",
-    "energie":"Energétique",
-    "contenu_explicite":"Non"
+    "energie":"Calme",
+    "contenu_explicite":"Oui"
   },
   {
     "rang_du_top":50,
-    "titre":"Headlock",
-    "artiste":"Imogen Heap",
-    "ambiance":"Musique Joyeuse",
+    "titre":"Je pense à vous",
+    "artiste":"Linh",
+    "ambiance":"Musique à tendance ouverte",
     "energie":"Calme",
     "contenu_explicite":"Non"
   }
